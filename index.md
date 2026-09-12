@@ -4,6 +4,8 @@ title: Family apps
 ---
 # Family apps
 
+<img src="assets/logo.png" height="50" width="50"/>
+
 Information about two private applications used for personal and household planning.
 
 - [FamilyPlanner](familyplanner/) helps manage family calendars and event coordination.
