@@ -3,6 +3,7 @@ layout: default
 title: Family apps
 ---
 <img src="assets/logo2.png" height="50" width="50"/>
+
 # Family apps
 
 Information about two private applications used for personal and household planning.
